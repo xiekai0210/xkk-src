@@ -1,8 +1,8 @@
 module.exports = {
-    title: 'xkk备忘录',
-    base: '/xkkk/',
+    title: '个人简历',
+    base: '/xkk/',
     shouldPrefetch: () => false,
-    description: 'XKK',
+    description: '谢凯凯',
     // themeConfig: {
     //     // logo: '/assets/img/logo.png',
     //     // 假定是 GitHub. 同时也可以是一个完整的 GitLab URL
